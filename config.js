@@ -1,5 +1,6 @@
 import  firebase from 'firebase'
 require('@firebase/firestore');
+require('firebase/auth');
 var firebaseConfig = {
   apiKey: "AIzaSyBIcpj2h9H2F7qwy7WU7QdtVHNiQ-SvPkA",
   authDomain: "wily-3c36f.firebaseapp.com",
